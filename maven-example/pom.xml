@@ -10,8 +10,7 @@
     <modules>
         <module>multi1</module>
         <module>multi2</module>
-        <module>multi3</module>
-    </modules>
+           </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
